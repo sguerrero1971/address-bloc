@@ -48,7 +48,4 @@ RSpec.describe AddressBook do
       expect(book.entries.size).to eq (1)
     end
   end
-
-    end
-  end
 end
